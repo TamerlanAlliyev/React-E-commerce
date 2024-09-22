@@ -1,0 +1,26 @@
+.logo-png {
+    width: 28px;
+    height: 28px;
+}
+
+.search-input {
+    width: 200px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.header-icon-list {
+    gap: 5px;
+}
+
+.header-icon {
+    cursor: pointer;
+}
+
+.theme-button {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
